@@ -6,7 +6,7 @@ import Socail from './socil'
 const header = () => {
   return (
     <header>
-      <div className="cont header-cont">
+      <div className="cont header-cont" id='#home'>
         <h5>Hello I'm</h5>
         <h1>Haja Bingo</h1>
         <h5 className="text-light">Fullstack Devolober</h5>
