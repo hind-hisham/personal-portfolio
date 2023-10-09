@@ -1,7 +1,7 @@
 # personal-portfolio
 [live demo](https://hind-hisham.github.io/personal-portfolio)
 
-[screenshot](https://github.com/hind-hisham/personal-portfolio/blob/main/pp-screenshot.png)
+![screenshot](https://github.com/hind-hisham/personal-portfolio/blob/main/pp-screenshot.png)
 
 ## Introduction
 This is React applaction,It is a porsonal portfolio
