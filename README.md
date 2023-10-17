@@ -4,7 +4,7 @@
 ![screenshot](https://github.com/hind-hisham/personal-portfolio/blob/main/pp-screenshot.png)
 
 ## Introduction
-This is React applaction,It is a porsonal portfolio
+This is React application,It is a personal portfolio
 
 ## Technologies
 * React
